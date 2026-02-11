@@ -8,3 +8,6 @@ SELECT *
  WHERE land = 'Schweiz'
    AND ort = 'Molbergen';
 /
+
+
+Änderderung der Datei neue_datei-1.sql
