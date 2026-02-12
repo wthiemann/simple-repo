@@ -10,7 +10,10 @@ SELECT *
 /
 
 
-Änderderung der Datei neue_datei-1.SQL
+Änderderung der Datei first_query-1.SQL
+
+Ist von mir !!!!!!
+
 
 
 
